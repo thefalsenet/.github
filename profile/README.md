@@ -1,4 +1,4 @@
-![og](https://github.com/thefalsedotnet/.github/blob/master/profile/og.jpg)
+![og](https://github.com/thefalsedotnet/app/blob/master/public/og.jpg)
 
 <!--
 
